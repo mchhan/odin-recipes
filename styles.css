@@ -1,0 +1,28 @@
+.heading{
+    text-align: center;
+    background-color: rgb(180, 180, 197);
+    font-size: 100px;
+    color: turquoise;
+}
+
+.rlist {
+    font-size: 50px;
+    background-color: rgb(255, 160, 174);
+}
+
+.desert {
+    color: yellow;
+    font-style: italic;
+    
+}
+
+.dinner {
+    color: grey;
+    text-align: center;
+    font-style: oblique;
+}
+
+.lunch {
+    color: orange;
+    text-align: right;
+}
