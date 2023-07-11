@@ -3,26 +3,55 @@
     background-color: rgb(180, 180, 197);
     font-size: 100px;
     color: turquoise;
+    display: block;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 120px;
+    border: dashed magenta;
+}
+
+ul {
+    list-style-type: none;
 }
 
 .rlist {
     font-size: 50px;
     background-color: rgb(255, 160, 174);
+    display: flex;
+    padding: 10px;
+    border: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 150px;
 }
 
 .desert {
-    color: yellow;
+    background-color: yellow;
     font-style: italic;
-    
+    padding: 10px;
+    border: 10px;
+    border: solid green;
+    margin: auto;
 }
 
 .dinner {
-    color: grey;
+    background-color: grey;
     text-align: center;
     font-style: oblique;
+    padding: 10px;
+    border: 10px;
+    border: dotted indigo;
+    margin: auto;
 }
 
 .lunch {
-    color: orange;
+    background-color: orange;
     text-align: right;
+    padding: 10px;
+    border: 10px;
+    border: double greenyellow;
+    margin: auto;
 }
